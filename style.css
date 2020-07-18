@@ -1,0 +1,11 @@
+/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rowdies&display=swap');
+
+h1 {
+  text-align: center;
+  font-family: 'Rowdies', cursive;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}

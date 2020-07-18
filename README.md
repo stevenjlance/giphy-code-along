@@ -3,7 +3,7 @@ Who doesn't love a good gif?
 ![](https://media.giphy.com/media/cJMlR1SsCSkUjVY3iK/giphy.gif)
 
 **GOAL:** The goal today is to code out a gif-finder that takes in a user's keyword and sends you back the gifs that meet that criteria.  
-![]()
+![](https://media.giphy.com/media/L4O9VxDRFI4hBYs1NF/giphy.gif)
 
 ## WARM UP!
 
